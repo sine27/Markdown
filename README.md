@@ -24,19 +24,23 @@ Markup: ##### Heading 5
 Markup: ###### Heading 6
 ```
 [ _Italicaize text_ ] 
-```
+```md
 Markup: _Italicaize text_ or *Italicaize text*
 ```
 [ __Bold text__ ]
-```
+```md
 Markup: __Bold text__ or **Bold text**
 ```
 [ ___Bold Italicize text___ ]
-```
+```md
 Markup: ___Bold Italicize text___ or *** Bold Italicize text ***
 ```
-[ ~~Strikethrough text~~ ] 
+[ `Highlighted text` ] 
+```md
+Markup: `Highlighted text`
 ```
+[ ~~Strikethrough text~~ ] 
+```md
 Markup: ~~Strikethrough text~~
 ```
 
@@ -89,3 +93,11 @@ or
 > looking like it's been marked up with tags
 > or formatting instructions.
 ```
+
+Rows| Colume 1 | Colume 2
+-|:-:|-:
+Row 1 | cell 1 | cell 2
+Row 2 | cell 3 | cell 4
+
+
+
