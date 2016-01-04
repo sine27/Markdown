@@ -95,7 +95,7 @@ or
 ```
 
 Rows| Colume 1 | Colume 2
--|:-:|-:
+---|:---:|---:
 Row 1 | cell 1 | cell 2
 Row 2 | cell 3 | cell 4
 
