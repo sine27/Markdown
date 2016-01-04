@@ -43,7 +43,10 @@ Markup: ~~Strikethrough text~~
 [Named Link](http://www.google.com) & Link: <http://www.google.com>
 ```
 Markup: [Named Link](http://www.google.com)
-Link: http://www.google.com or Link: <http://www.google.com>
+
+Link: http://www.google.com 
+or
+Link: <http://www.google.com>
 ```
 
 ---
@@ -60,7 +63,9 @@ Markup:
 * Bullet list 2
     * Nested bullet
 * Bullet list 3
+
 or
+
 - Bullet list 1
 - Bullet list 2
     - Nested bullet
@@ -74,6 +79,7 @@ or
 > publishable as-is, as plain text, without
 > looking like it's been marked up with tags
 > or formatting instructions.
+
 ```
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
